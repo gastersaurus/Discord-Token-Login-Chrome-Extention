@@ -1,6 +1,6 @@
 Simple Chrome Extention to login with discord tokens.
 
-Load the unpacked extention as normal or download the packed extention from releases.
+Load the unpacked extention as normal or download the packed extention from releases [here.](https://github.com/gastersaurus/Discord-Token-Login-Chrome-Extention/releases/download/release/Discord.Token.Login.crx)
  - Download the .crx from releases or download the repo as a zip file and extract it
  - Navigate to chrome://extensions/ and enable developer mode.
  - If you have dowloaded the repo as a zip file then click load unpacked extention and select the unzipped folder
