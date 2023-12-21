@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Discord Token Login",
+  "description": "Simple extension to login to discord with a token",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "host_permissions": [
+    "https://discord.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "matches": [
+        "https://discord.com/login/*"
+      ],
+      "js":[
+        "scripts/login.js"
+      ]
+    }
+  ]
+}
