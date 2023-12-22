@@ -1,5 +1,5 @@
-Simple Chrome Extention to login with discord tokens.
-
+#  Simple Chrome Extention to login with discord tokens. [![Support Server](https://img.shields.io/discord/1187499640879333457.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/XqUZw3ArAp) 
+ 
 ![image](https://github.com/gastersaurus/Discord-Token-Login-Chrome-Extention/assets/154365450/cb5eddef-ccb1-41f4-88a3-a06a1c2f8778)
 
 Load the unpacked extention as normal or download the packed extention from releases [here.](https://github.com/gastersaurus/Discord-Token-Login-Chrome-Extention/releases/download/release/Discord.Token.Login.crx)
